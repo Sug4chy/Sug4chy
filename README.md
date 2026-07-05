@@ -29,7 +29,7 @@
 </div>
 
 
-## echo "Благодарности за этот прелестный профиль ⚡️"
+## echo "Благодарности за красивый профиль ⚡️"
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
