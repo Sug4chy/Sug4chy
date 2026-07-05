@@ -23,9 +23,6 @@
   <a href="mailto:sb.9226981433@gmail.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=gmail" width="40" height="40" alt="GMail"/>
   </a>
-  <a href="https://m.vk.com/id353181779" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=vk" width="40" height="40" alt="VK"/>
-  </a>
 </div>
 
 
